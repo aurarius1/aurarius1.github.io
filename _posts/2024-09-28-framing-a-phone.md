@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My Framed iPhone
-date: 2024-09-30 17:00:00
+title: Framing a phone
+date: 2024-09-28 17:00:00
 categories: diy
 tags: teardown, phones 
 ---
-A few months ago I received an iPhone 6s from a friend who couldn't remember their iCloud password and since it was a 6s decided they didn’t want to bother with it anymore.. So the question then was what to do with, of course keeping it for spare parts was an option, but since it was such an old phone I needed something better as it would mostly just collect dust waiting to donate some of its internals. After digging around online, I found the perfect answer: teardown art. Not only would it give new life to the old device, but I’d also end up with a unique piece of art for my home. Basically, the phone is disassembled into its pieces and then put on a nice template describing each part.  To really make this look good though it should be noted that the phone shouldn't show visible defects/marks and should still have the original battery.
+A few months ago I received an iPhone 6s from a friend who couldn't remember their iCloud password and since it was a 6s decided they didn’t want to bother with it anymore.. So the question then was what to do with it, of course keeping it for spare parts was an option, but since it was such an old phone I needed something better as it would mostly just collect dust waiting to donate some of its internals. After digging around online, I found the perfect answer: teardown art. Not only would it give new life to the old device, but I’d also end up with a unique piece of art for my home. Basically, the phone is disassembled into its pieces and then put on a nice template describing each part.  To really make this look good though it should be noted that the phone shouldn't show visible defects/marks and should still have the original battery.
 
 ## Disassembling the phone
 Disassembling the phone is pretty easy, for most of the phones iFixit provides a teardown guide, follow it and you'll mostly be good to go. The only thing you need to look out for is that you should be really careful as to not rip any ribbon cables or similar. The only cable I did cut was the battery connector. This was cut off and then insulated using black tape - this is not visible at all, as the battery itself is also black.
@@ -25,7 +25,13 @@ After that it was just a matter of putting the paper in the 30cm x 40cm Ikea fra
 ## Conclusion
 You might be surprised but the most expensive piece was the Ikea frame at 7€. As I only needed to buy one more item (the template) this is bound to be the second most expensive part, coming in at around ~3€. If you want to do the heatshield removal you'll of course need a hot air soldering station, but I don't want to count that as cost towards this project, as you get a complete tool (or maybe also can find a local makerspace that has one of those on hand). So the total cost of the project was around 10€. For a few euros and a little time, you can turn a forgotten device into something special. If you’ve got an old phone lying around, why not give teardown art a try?
 
-### PICS
+![processor](../assets/img/posts/teardown-art/processor.jpg)
+*Definitely worth it to remove the heat shield*
+
+![final_frame_wood](../assets/img/posts/teardown-art/final_different_frame.jpg)
+*This picture was taken directly after assembling, it has a bright wood coloured frame, which I then decided to replace with a black frame*
+
+![final](../assets/img/posts/teardown-art/final.jpg)
 
 
 ## This is not limited to phones
