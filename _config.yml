@@ -8,13 +8,9 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-
-
-
-
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: V9U_t6xaY-KTl_5fFlF71qa6iHC0uBJ3p782d-bsSxM # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
