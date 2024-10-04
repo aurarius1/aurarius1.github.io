@@ -38,3 +38,9 @@ You might be surprised but the most expensive piece was the Ikea frame at 7€. 
 
 Although mostly talking about phones, on etsy you can find templates for game consoles, controllers etc. So if you are thinking about doing this for your favourite retro console try searching for it on etsy, maybe you'll find something you like! 😊 Just be sure to use something that is broken / not repairable, you wouldn't want to sacrifice your only gameboy for this project. 😉 Having to buy the hardware of course adds cost, but still broken hardware can be sourced very cheaply, so in my opinion still worth it.
 
+## P.S.
+Since posting I have already build the second framed phone and can give a few more tips on how to successfully build the frame. The first part would be to choose a phone housing (especially for iPhones) with a color, e.g. my second frame was done with an iPhone XR and instead of ordering a black replacement frame I went with a red one and it was a really good decision as you can see in the picture below. 
+![iPhone XR with red frame](../assets/img/posts/teardown-art/iphone_xr.jpg)
+
+The second tip I can give: if you own a 3d printer don't mess around with cutting foam to the right size, just get your calipers and measure the dimensions (height is important here) and print a little slab of plastic (no need for accuracy, do it with a .28mm layer height or higher) and use that to glue the frame and the screen to the paper. Much easier than getting the cuts right all the time (and also not very expensive, the four slabs I used in total were around 20g). 
+
